@@ -3,6 +3,10 @@
 Скрипт делает предосмотр серии показывая начальное превью и название определенной серии.
 Чтобы предосмотр работал просто наведитесь на любую серию аниме.
 
+Пример скрипта:
+
+![image](https://github.com/user-attachments/assets/8ed97e9a-5843-4b80-90c0-3cf7cd164e54)
+
 #### Для работы скрипта необходим менджер скриптов. Какой менеджер скриптов вам использовать, зависит от того, какой браузер вы используете.
 
 * Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) или [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
